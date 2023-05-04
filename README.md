@@ -1,2 +1,2 @@
-# maven-template
+# maven fatjat template
  
